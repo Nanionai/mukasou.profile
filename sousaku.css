@@ -1,0 +1,43 @@
+    body{
+      background-color: rgb(231, 231, 231);
+    }
+
+    h2{
+      color: rgb(58, 58, 58);
+      border-bottom: dotted 3px;
+    }
+
+.syoukai{ 
+  text-align: left;
+}
+
+.intro{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  
+  h1{
+      background-color: rgb(122, 118, 131);
+      color: lightgrey;
+  }
+}
+
+   .chara-box{
+      float: left;
+      padding-right: 10px;
+      padding-left: 150px;
+      cursor: pointer;
+    }
+
+    .profile-box {
+      padding: 20px;
+      margin: 20px;
+    }
+
+    li{
+      list-style-type: square;
+      margin: 10px;
+    }
+    a{
+      font-weight: bold;
+    }
